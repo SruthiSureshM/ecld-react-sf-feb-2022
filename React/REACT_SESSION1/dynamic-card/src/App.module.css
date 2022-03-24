@@ -1,0 +1,30 @@
+.body{
+
+    
+    padding-left:50px;
+    padding-right:50px;
+    border-radius: 20px;
+    margin: 25px;
+}
+
+.heading3{
+    text-align: center;
+}
+
+.heading1{
+    color: red;
+}
+
+.heading6{
+
+    float:left;
+}
+.searchbar{
+    width:70%;
+    height:40px;
+    margin-left:40px;
+    border: 2px solid rgba(245, 241, 241, 0.863);
+    border-radius:5px;
+    
+
+}
